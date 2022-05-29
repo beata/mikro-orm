@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[53973],{57059:function(e){e.exports=JSON.parse('{"banner":"","breadcrumbs":true,"gitRefName":"master","minimal":false,"pluginId":"default","scopes":[]}')}}]);

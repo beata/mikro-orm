@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs=self.webpackChunkdocs||[]).push([[21979],{82043:function(e){e.exports=JSON.parse('{"title":"Fundamentals","keywords":["fundamentals"],"slug":"/fundamentals","permalink":"/docs/fundamentals","navigation":{"previous":{"title":"Unit of Work","permalink":"/docs/unit-of-work"},"next":{"title":"Identity Map","permalink":"/docs/identity-map"}}}')}}]);
